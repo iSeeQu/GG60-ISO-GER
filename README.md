@@ -1,4 +1,4 @@
 ## GG60-ISO-GER
+## GG60-ISO-CH
 
-![LAYOUT](layers/gg60_iso_ger_layout0.png)
-![LAYOUT](layers/gg60_iso_ger_layout1.png)
+![LAYOUT](layers/gg60_iso_ch.jpg)
