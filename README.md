@@ -1,4 +1,4 @@
 ## GG60-ISO-GER
 # GG60-ISO-CH
 
-![LAYOUT](gg60_iso_ch.jpg)
+![LAYOUT](/gg60_iso_ch.JPG)
