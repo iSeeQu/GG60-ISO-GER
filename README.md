@@ -1,5 +1,4 @@
-
-# GG60-ISO-CH
-## HINWEIS! Keycap Set von Glorious ist eine Fehlproduktion. TASTE # ist in der Firmware richtig platziert.
+## GG60-ISO-GER
+# GG60-ISO-CH Version
 
 ![LAYOUT](/gg60_iso_ch_mint.png)
