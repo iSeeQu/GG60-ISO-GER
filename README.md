@@ -11,10 +11,12 @@ with ICONS
 
 
 
-coming soon...
+
 
 GG60-ISO-GER
 ## GERMAN Layout BM60ISOv2
+under construction!!!
 
 GG60-ISO-AUT
 ## AUSTRIAN Layout BM60ISOv2
+coming soon...
