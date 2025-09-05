@@ -1,15 +1,17 @@
 # GG60-ISO-CH
-## SWISS German Layout BM60ISOv2
+## SWISS Layout BM60ISOv2
 
-#Letters
+#with LETTERS
 ![LAYOUT](/gg60_iso_ch.png)
 
-#Icons
+
+#with ICONS
 ![LAYOUT](/gg60_iso_ch_lab_series.png)
 
 
 
-coming soo...
+
+coming soon...
 
 #GG60-ISO-GER
 ## GERMAN Layout BM60ISOv2
