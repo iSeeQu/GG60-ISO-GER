@@ -13,8 +13,8 @@ with ICONS
 
 coming soon...
 
-#GG60-ISO-GER
+GG60-ISO-GER
 ## GERMAN Layout BM60ISOv2
 
-#GG60-ISO-AUT
+GG60-ISO-AUT
 ## AUSTRIAN Layout BM60ISOv2
