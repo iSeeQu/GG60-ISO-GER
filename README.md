@@ -1,4 +1,4 @@
-# GG60-ISO-CH
+# GG60 ISO CH
 ## SWISS Layout for BM60ISOv2
 
 ![LAYOUT](/files/gg60_iso_ch.png)
