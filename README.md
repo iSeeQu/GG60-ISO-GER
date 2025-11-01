@@ -2,11 +2,11 @@
 ## SWISS Layout BM60ISOv2
 
 with LETTERS
-![LAYOUT](/gg60_iso_ch.png)
+![LAYOUT](/files/gg60_iso_ch.png)
 
 
 with ICONS
-![LAYOUT](/gg60_iso_ch_lab_series.png)
+![LAYOUT](/files/gg60_iso_ch_lab_series.png)
 
 
 
