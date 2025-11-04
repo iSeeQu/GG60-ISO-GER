@@ -10,7 +10,7 @@
 * RBG Lighting
 * Makros
 
-compatible with:
+### compatible with:
 GG60-ISO-CH-LAB-BLACKONWHITE-LEGEND
 ![LAYOUT](/files/gg60_iso_ch.png)
 GG60-ISO-CH-LAB-BLACKONWHITE-ICON
