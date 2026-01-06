@@ -1,7 +1,8 @@
 # GG60
 
-## SWISS ISO Layout for KPR BM60
+## SWISS ISO Layout
 ### Hardware-Specs
+* PCB: BM60ISOHSRGB
 * MCU:    ATMEGA32U4
 * Socket: Hotswap
 * Layout: 60% ISO
