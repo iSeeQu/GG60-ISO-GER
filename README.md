@@ -1,6 +1,6 @@
 # GG60
 
-## SWISS ISO Layout
+## SWISS ISO Layout for LAB Series
 ### Hardware-Specs
 * PCB:     BM60HSRGBISOv2
 * MCU:     ATMEGA32U4
@@ -11,6 +11,6 @@
 * RBG Lighting
 * Makros
 
-### GG60 ISO CH LAB Series
+### GG60 ISO CH LAB Series Keycap Set
 ![LAYOUT](/files/gg60_iso_ch.png)
 
