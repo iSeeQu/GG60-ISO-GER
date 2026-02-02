@@ -15,5 +15,5 @@
 ![LAYOUT](/files/gg60_iso_ch.png)
 
 ### RGB Lighting Controll
-![LAYOUT](/layers/gg60_iso_ger_layout1.png)
+![LAYOUT](/files/gg60_iso_rgb_controll.png)
 
