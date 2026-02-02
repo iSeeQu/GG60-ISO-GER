@@ -7,9 +7,7 @@
 * Socket:  Hotswap
 * Layout: 60% ISO
 * Matrix: 5 Rows x 15 Columns
-### Nonflex, case mounted PCB with Clip in Stabs
 * RBG Lighting
-* Makros
 
 ### GG60 ISO CH LAB Series Keycap Set
 ![LAYOUT](/files/gg60_iso_ch.png)
